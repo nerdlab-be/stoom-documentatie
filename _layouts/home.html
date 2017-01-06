@@ -13,32 +13,29 @@
     {% include components.header.html %}
     <!-- End page header -->
 
-    <div class="c-row c-row--alpha">
+    <div class="c-row c-row--alpha u-pt-epsilon u-pb-epsilon">
         <div class="o-container">
-            <section class="o-grid o-grid--gutter">
-                <div class="o-grid__item">
-                    <h1>Verslagen</h1>
-                    <hr>
-                    <ul class="o-list">
-                        {% for post in site.posts %}
-                        <li class="u-mb-gamma">
-                            <h5 class="u-mb-beta">
-                                <a href="{{ post.url }}">
-                                    {{ post.title }}
-                                </a>
-                            </h5>
-                            {% if post.category %}
-                            <p class="c-meta c-card__meta">Geplaatst in {{ post.category | capitalize }} op
-                            {% endif %}
-                            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time></p>
-                            {% if post.summary %}
-                            <p class="u-margin-bottom-none">{{ post.summary }}</p>
-                            {% endif %}
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            </section>
+            <h1>Verslagen</h1>
+            <hr>
+            <ul class="o-list">
+                {% for post in site.posts %}
+                <li class="u-mb-gamma">
+                    <h5 class="u-mb-beta">
+                        <a href="{{ site.github.url }}{{ post.url }}">
+                            {{ post.title }}
+                        </a>
+                    </h5>
+                    <p class="u-mb-beta">
+                    {% if post.category %}
+                    Geplaatst in {{ post.category | capitalize }} op
+                    {% endif %}
+                    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time></p>
+                    {% if post.summary %}
+                    <p class="u-mb-beta"><em>{{ post.summary }}</em></p>
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
         </div>
     </div>
 

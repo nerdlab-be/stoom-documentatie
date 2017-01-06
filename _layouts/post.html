@@ -37,16 +37,17 @@
                         {% else %}
                         <li class="u-mb-gamma">
                             <h5 class="u-mb-beta">
-                                <a href="{{ post.url }}">
+                                <a href="{{ site.github.url }}{{ post.url }}">
                                     {{ post.title }}
                                 </a>
                             </h5>
+                            <p class="u-mb-beta">
                             {% if post.category %}
-                            <p class="c-meta c-card__meta">Posted in {{ post.category | capitalize }} on
+                            Geplaatst in {{ post.category | capitalize }} op
                             {% endif %}
                             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time></p>
                             {% if post.summary %}
-                            <p class="u-margin-bottom-none">{{ post.summary }}</p>
+                            <p class="u-mb-beta"><em>{{ post.summary }}</em></p>
                             {% endif %}
                         </li>
                         {% endif %}

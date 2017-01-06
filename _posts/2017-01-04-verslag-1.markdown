@@ -2,7 +2,7 @@
 title: Verslag 1
 date: 2017-01-04 00:00:00 Z
 layout: post
-section: posts
+summary: Kickoff meeting
 ---
 
 Dit is de verslag tekst.
