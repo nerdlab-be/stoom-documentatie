@@ -1,6 +1,7 @@
 ---
+title: Verslag 1
+date: 2017-01-04 00:00:00 Z
 layout: post
-title: "Verslag 1"
 section: posts
 ---
 

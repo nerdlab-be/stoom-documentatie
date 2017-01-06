@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Verslag 1
+layout: post
 section: verslagen
 ---
 
