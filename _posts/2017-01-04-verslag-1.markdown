@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Verslag 1"
+section: posts
+---
+
+Dit is de verslag tekst.
