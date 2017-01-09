@@ -1,5 +1,5 @@
 ---
-title: Verslagen
+title: Verslag bijeenkomst
 date: 2017-01-04 00:00:00 Z
 summary: Kickoff meeting
 layout: post
