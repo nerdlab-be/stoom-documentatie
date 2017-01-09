@@ -19,9 +19,9 @@ Mogelijke deelnemers aan ons traject zijn onder andere studenten ingenieur, elec
 
 **Praktisch**: het zal aanvankelijk moeilijk zijn om jongeren te vinden die zich voor een volledig jaar willen engageren voor een nieuw project. Daarom delen we het jaar op in vier **thematische blokken** waarvoor mensen zich kunnen inschrijven, die steeds eindigen met een **tussentijds toonmoment**:
 
-* Evenement op Sint-Jacobs
-* Film op strand/DOK
-* Bring Your Own Beamer
+- Evenement op Sint-Jacobs
+- Film op strand/DOK
+- Bring Your Own Beamer
 
 **Iedere dinsdag** wordt er iets (workshop, werkmoment, toonmoment…) georganiseerd. Die workshops worden door experts gegeven, met de doelgroep in het achterhoofd mikken we ook op een aantal **vrouwelijke workshopgevers**. Daarnaast zou het fijn zijn om ook **Henk Ryckaert** eens te vragen. Onze nerds kunnen coaches worden.
 
@@ -35,10 +35,10 @@ Een losse workshop volgen kan ook, en kost €10. Eens langskomen op een werkmom
 
 ## To do
 
-* Thema’s zoeken (licht, psychedelica…)
-* GitHub opstarten (deadline 15/01)
-* Tekst landingspagina schrijven (deadline 9/01)
-* Hannes zoekt in het buitenland gelijkaardige projecten op
-* Landingspagina met inschrijvingsformulier (naam, mail, leeftijd) opzetten, naam fotograaf vermelden
-* Moodboard opstellen (deadline 13/01)
-* Marlies maakt een lijst van scholen en organisaties waar we kunnen rekruteren
+- Thema’s zoeken (licht, psychedelica…)
+- GitHub opstarten (deadline 15/01)
+- Tekst landingspagina schrijven (deadline 9/01)
+- Hannes zoekt in het buitenland gelijkaardige projecten op
+- Landingspagina met inschrijvingsformulier (naam, mail, leeftijd) opzetten, naam fotograaf vermelden
+- Moodboard opstellen (deadline 13/01)
+- Marlies maakt een lijst van scholen en organisaties waar we kunnen rekruteren
