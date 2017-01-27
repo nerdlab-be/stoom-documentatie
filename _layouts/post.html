@@ -30,11 +30,7 @@
                     <hr>
                     <ul class="o-list">
                         {% for post in site.posts %}
-                        {% if post.title == page.title %}
-                        <li>
-                            Er zijn momenteel geen andere verslagen.
-                        </li>
-                        {% else %}
+                        {% unless post.title == page.title %}
                         <li class="u-mb-gamma">
                             <h5 class="u-mb-beta">
                                 <a href="{{ site.github.url }}{{ post.url }}">
@@ -50,7 +46,7 @@
                             <p class="u-mb-beta"><em>{{ post.summary }}</em></p>
                             {% endif %}
                         </li>
-                        {% endif %}
+                        {% endunless %}
                         {% endfor %}
                     </ul>
                 </div>
