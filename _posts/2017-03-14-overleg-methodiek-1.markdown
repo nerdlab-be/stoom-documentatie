@@ -21,7 +21,7 @@ Het lijkt alsof er een enorme kloof is tussen de ‘analoge’ kunst, en de kuns
 Het probleem is niet zozeer de techniek, dan wel de vraag van waaruit we vertrekken. Biedt de aangeleerde techniek een antwoord op de vooropgestelde vraag?
 Welke vraag wordt er gesteld, van waaruit vertrokken wordt om ‘iets’ te gaan maken?
 
-We stellen vast dat we binnen STOOM vertrekken vanuit de aangeleerde techniek. Desondanks het vooropgestelde doel om eerst een concept te gaan bedenken, waarnaar we streven dat concept uit te voeren.
+We stellen vast dat we binnen STOOM vertrekken vanuit de aangeleerde techniek. Desondanks het vooropgestelde doel om eerst een concept te gaan bedenken, waarna we ernaar streven dat concept uit te voeren.
 Indien er eerst een concept uitgedacht wordt, al dan niet op basis van een vooropgestelde ‘challenge’, kun je op zoek gaan naar die middelen die je tot dat doel brengen.
 
 STOOM biedt een ‘antwoord’ in de vorm van videomapping. Bijgevolg zijn de deelnemers ook die mensen die de techniek willen beheersen, en niet zozeer mensen die kritisch denken over een probleem/uitdaging waarop een antwoord geboden kan worden. Een antwoord dat kan bestaan uit videomapping, maar evengoed een andere techniek.
