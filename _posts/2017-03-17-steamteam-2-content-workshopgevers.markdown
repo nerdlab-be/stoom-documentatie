@@ -45,4 +45,4 @@ WS 3 4 5. Erna plannen we 3 doorwerksessies onder de begeleiding van Bert (conce
 
 WS 6. Thomas komt technisch bijsturen waar nodig, feedback geven, en de vragen die er zijn oplossen.
 
-WS 7 & 8 Doorwerksessies onder begeleiding van Bert \+ try out
+WS 7 & 8 Doorwerksessies onder begeleiding van Bert en de Nerds \+ try out
